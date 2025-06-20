@@ -4,4 +4,8 @@
 import UIKit
 import Foundation
 
-public class MyPackage1 { }
+public class MyPackage1 {
+  public init() {
+    
+  }
+}
