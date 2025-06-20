@@ -1,4 +1,8 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
-public class MyPackage1 { }
+public class MyPackage1 {
+  public init() {
+    
+  }
+}
